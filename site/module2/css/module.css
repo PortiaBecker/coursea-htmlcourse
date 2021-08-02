@@ -1,12 +1,11 @@
 * {
-  box-sizing: border-box
-  
+  box-sizing: border-box  
 }
 H1 {text-align: center;
 margin-top:50px;
 margin-bottom:50px }
 
-/* Simple Responsive Framework. */
+/* Simple Responsive Framework. From Lesson 24(permitted by instructor to be used as a starting point) */
 .row {
   width: 100%;
 }
