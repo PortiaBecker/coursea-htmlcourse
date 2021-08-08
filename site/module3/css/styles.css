@@ -1,0 +1,23 @@
+body {
+  font-size: 25px;
+  color: #000000;
+  background-color: #FFFFFF;
+  font-family: sans-serif;
+}
+
+/** HEADER **/
+#navbar-hdrx {
+  background-color: #73C6B6;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brandhr h1 {
+  font-weight: bold;
+  border-radius: 0;
+  border: 0;
+ text-align: right;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
